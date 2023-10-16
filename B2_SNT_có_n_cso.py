@@ -13,4 +13,3 @@ for i in range(d,n+1):
 for p in range(d,n+1):
     if(a[p]):
         print(p)
-    

@@ -15,3 +15,4 @@ if __name__=='__main__':
             if(check_prime(j)):
                 if(i%j==0 and i%(j*j)==0):
                     print(i)
+                    

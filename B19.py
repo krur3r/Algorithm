@@ -27,4 +27,3 @@ if __name__=='__main__':
             print(result)
         else:   print("Không có x thỏa mãn")
     else:   print("Nhập n<m")
-    

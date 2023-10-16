@@ -16,3 +16,4 @@ for i in range(100,1000):
             if(z*z*z==rev):
                 print("Số cần tìm là:",i)
                 print("Đảo ngược của",i,":",rev,"là lập phương của",z)
+                

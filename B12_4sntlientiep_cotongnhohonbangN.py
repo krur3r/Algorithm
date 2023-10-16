@@ -18,3 +18,4 @@ for j in range(seq_prime[-1]):
         if(s%k==0): check=0
     if(check==1):   print(seq_prime[j],seq_prime[j+1],seq_prime[j+2],seq_prime[j+3])
     else: break
+    

@@ -9,3 +9,4 @@ if(n<=3):   print("No")
 for i in range(n+1):
     if(check_divisor(i)==1):
         print(i)
+        

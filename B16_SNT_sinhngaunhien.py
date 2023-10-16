@@ -55,4 +55,3 @@ while True:
     if(Miller_Rabin(kbits,t)):
         print(kbits)
         break
-        

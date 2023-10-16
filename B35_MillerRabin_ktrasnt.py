@@ -50,3 +50,4 @@ if __name__ == '__main__':
     else:
         print("Nguyên tố")
         print(f'Xác suât KL : {1-math.pow(1/4,t)}')
+        

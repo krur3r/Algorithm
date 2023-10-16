@@ -10,4 +10,3 @@ for p in range(2,n+1):
     if(prime[p]==1):
         s+=p
 print(s)
-    

@@ -78,6 +78,4 @@ if __name__ == '__main__':
         for i in e[::-1]:
             s1.append(floor(s[1]/i))
             s[1] = s[1]%i
-        print(s1)
-
-    
+        print(s1) 

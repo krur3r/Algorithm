@@ -24,6 +24,4 @@ if __name__=='__main__':
         else:
                 print("Nhập 0<n<1000")
     else:
-                print("Nhập 0<m<1000")
-                
-                
+                print("Nhập 0<m<1000")               

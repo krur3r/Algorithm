@@ -13,5 +13,4 @@ for p in range(2,n):
 print(seq_p)
 for i in range(1,len(seq_p)):
     check=seq_p[i]-seq_p[i-1]
-    if(check==2):   print("Cặp SNT sinh đôi: ",seq_p[i-1],seq_p[i]) 
-    
+    if(check==2):   print("Cặp SNT sinh đôi: ",seq_p[i-1],seq_p[i])     

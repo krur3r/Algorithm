@@ -57,3 +57,4 @@ if __name__=='__main__':
     result=s_prime(a,b)
     print(result)
     print(len(result))
+    

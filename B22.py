@@ -58,3 +58,4 @@ if __name__=='__main__':
     l=int(input("Nhập l: "))   
     r=int(input("Nhập r> l: "))
     print(result(l, r)) 
+    

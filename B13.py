@@ -14,5 +14,3 @@ for i in range(2,n+1):
                 hieu=abs(i-j)
                 if(check_prime(tong)==1 and check_prime(hieu)==1):
                     print(i,j)
-                
-        

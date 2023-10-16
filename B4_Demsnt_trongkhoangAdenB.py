@@ -30,4 +30,5 @@ def SegmentedSoE(a,b):
             print(p)
             dem+=1
     print(dem)
-print(SegmentedSoE(a, b))      
+print(SegmentedSoE(a, b))
+    

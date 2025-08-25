@@ -1,3 +1,4 @@
+#34. Cài đặt thuật toán kiểm tra số nguyên tố Fermat. Trong trường hợp số nào thì thuật toán cho kết quả kiểm tra sai.
 import random
 
 

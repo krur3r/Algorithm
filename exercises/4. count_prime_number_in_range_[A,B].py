@@ -1,3 +1,4 @@
+#4. Viết chương trình đếm số số nguyên tố nằm trong khoảng [A,B] với A, B nhập vào từ bàn phím.
 from math import sqrt
 a=int(input("Nhập số a: "))
 b=int(input("Nhập số b: "))

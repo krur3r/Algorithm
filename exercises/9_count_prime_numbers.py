@@ -1,3 +1,4 @@
+#9. Viết chương trình đếm số số nguyên tố nhỏ hơn hoặc bằng N với N được nhập vào từ bàn phím.
 n=int(input("Nhập n: "))
 p=2
 prime=[1 for i in range(n+1)] #prime=[1]*(n+1)

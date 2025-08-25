@@ -1,3 +1,4 @@
+#14. Viết chương trình tìm số nguyên tố có ba chữ số, biết rằng nếu viết số đó theo thứ tự ngược lại thì ta được một số là lập phương của một số tự nhiên.
 from math import sqrt
 def reverse(n):
     rev=0

@@ -1,3 +1,4 @@
+#11. Viết chương trình tính tổng của các số nguyên tố nhỏ hơn hoặc bằng N với N được nhập từ bàn phím. 
 n=int(input("Nhập n: "))
 p=2
 s=0

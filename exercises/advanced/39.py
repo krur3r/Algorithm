@@ -1,3 +1,4 @@
+#39. Cho mảng A nhập từ bàn phím gồm các số nguyên dương. Hãy viết chương trình tìm các cặp số (i,j) trong mảng A sao cho ước chung lớn nhất của chúng là một số nguyên tố.
 import random
 
 

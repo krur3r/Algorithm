@@ -1,3 +1,4 @@
+#41. Cho các số nguyên dương a,k,n, nhập từ bàn phím (0<a,k<n<1000), Viết chương trình xác định xem ak mod n có phải là một số nguyên tố hay không (sử dụng thuật toán bình phương và nhân có lặp)?
 from math import sqrt
 a = int(input("Nhập số nguyên dương a: "))
 k = int(input("Nhập số nguyên dương k: "))

@@ -1,3 +1,4 @@
+#16. Viết chương trình tìm các số nguyên tố từ một mảng sinh ngẫu nhiên có kích thước N, với N nhập vào từ bàn phím.
 from random import randint
 def dec_to_bin(k):
     r = []

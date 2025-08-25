@@ -1,3 +1,4 @@
+#7. Một số emirp là một số nguyên tố mà khi đảo ngược vị trí các chữ số của nó, ta cũng được một số nguyên tố. Viết chương trình liệt kê các số emirp nhỏ hơn N với N nhập vào từ bàn phím.
 n=int(input("Nhập n: "))
 def reverse(n):
     rev=0

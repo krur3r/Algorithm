@@ -1,3 +1,4 @@
+#36. Lập trình tìm kiếm xâu S1 trong xâu S2 theo thuật toán Boyer-Moore, in giá trị của bảng. Trong trường hợp nào thì thuật toán Boyer-Moore được xem là cải tiến hơn thuật toán tìm kiếm vét cạn.
 def last_occurrence(T, P):  # hàm ánh xạ L
     L = {}
     for i in range(len(P)):

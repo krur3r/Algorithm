@@ -1,3 +1,4 @@
+# 26.  Một số được gọi là số S-num khi nó đồng thời vừa chia hết cho số nguyên tố và chia hết cho bình phương của số nguyên tố đó. Tìm số S-num nhỏ hơn số N cho trước (N < 10000).
 from math import sqrt
 def check_prime(n):
     if(n<2):

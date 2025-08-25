@@ -1,3 +1,4 @@
+#20. Viết chương trình in ra các cặp số (A,B) nằm trong khoảng (M,N) sao cho ước số chung lớn nhất của A và B có giá trị là một số D cho trước. Với M,N,D nhập vào từ bàn phím. (0<M,N, D < 1000).
 def gcd(a,b):
     while(b>0):
         r = a%b

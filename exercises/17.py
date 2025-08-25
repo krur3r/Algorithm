@@ -1,3 +1,4 @@
+#17. Viết chương trình tìm số nguyên dương x nhỏ nhất và nhỏ hơn N nhập từ bàn phím sao cho giá trị của biểu thức Ax^2+Bx+C là một số nguyên tố với A,B,C là các số nguyên nhập vào từ bàn phím. 
 def SoE(n):
     prime = [1 for i in range(n+1)]
     p=2

@@ -1,3 +1,4 @@
+#43. Cho N nhập vào từ bàn phím (0<N<1000). Hãy viết chương trình sinh một số nguyên tố p<100 và tìm tất cả các số nguyên a<N sao cho ap mod N là số nguyên tố.
 import random
 
 

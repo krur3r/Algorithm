@@ -1,3 +1,10 @@
+# 32. Áp dụng các thuật toán đã được học em hãy cài đặt chương trình giải bài toán mô phỏng cách mã và giải mã của hệ mật RSA như sau:
+# -	Tìm số nguyên số p, q (trong đó 100 < p, q < 500)
+# - Tính n = p.q; (n) = (p – 1) (q – 1)
+# - Chọn e (1<e< (n)) là số nguyên tố cùng nhau với (n) (gcd(e, (n)) = 1) và tính d = e-1 mod (n)
+# - Tính bản mã c của thông điệp m, với m = SBD + 123, c = me mod n
+# - Giải mã thông điệp, tính m = cd mod n
+
 import random
 
 

@@ -1,3 +1,8 @@
+#22. Với một số nguyên dương N thoả mãn 0<N<10000, đặt:
+# F ( N ) = N nếu N là một số nguyên tố
+# F ( N ) = 0 nếu là hợp số 
+# Cho  L và R nhập vào từ bàn phím, với mọi cặp i , j trong khoảng [ L , R ] hãy viết chương trình in ra màn hình giá trị tổng của F ( i ) * F ( j ) với  j > i. 
+
 from random import randint
 def dec_to_bin(k):
     r = []

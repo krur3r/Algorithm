@@ -1,3 +1,4 @@
+#13. Viết chương trình tìm hai số nguyên tố nhỏ hơn hoặc bằng N với N nhập vào từ bàn phím, sao cho tổng và hiệu của chúng đều là số nguyên tố.
 from math import sqrt
 n=int(input("Nhập n: "))
 def check_prime(n):

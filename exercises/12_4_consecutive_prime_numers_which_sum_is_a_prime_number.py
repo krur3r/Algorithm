@@ -1,3 +1,4 @@
+#12. Viết chương trình tìm bốn số nguyên tố liên tiếp, sao cho tổng của chúng là số nguyên tố nhỏ hơn hoặc bằng N (với N được nhập vào từ bàn phím).
 from math import sqrt
 n=int(input("Nhập n: "))
 p=2

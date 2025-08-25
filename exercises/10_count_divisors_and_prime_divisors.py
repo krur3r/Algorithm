@@ -1,3 +1,4 @@
+#10. Viết chương trình đếm số ước và số ước nguyên tố của một số N nhập vào từ bàn phím.
 n=int(input("Nhập n: "))
 p=2
 dem=demnt=0

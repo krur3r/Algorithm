@@ -1,3 +1,4 @@
+#42. Viết chương trình sinh ra 2 số nguyên tố 0<p,q<1000 và liệt kê tất cả các số a<100 thoả mãn: ap mod q là số nguyên tố. 
 import random
 
 

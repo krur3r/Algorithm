@@ -1,3 +1,4 @@
+#6. Hai số tạo thành một cặp số thân thiết khi chúng tuân theo quy luật: Số này bằng tổng tất cả các ước của số kia (trừ chính số đó) và ngược lại. Viết chương trình tìm hai số dạng này nhỏ hơn N (với N nhập vào từ bàn phím).
 n=int(input("Nhập n: "))
 def amicable_nums(n):
     for i in range(2,n):

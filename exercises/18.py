@@ -1,3 +1,4 @@
+#18. Cho p= 2147483647, biết các số nguyên lớn được biểu diễn thành mảng các từ, mỗi từ có w=8 bit. Áp dụng thuật toán đã được học để viết chương trình tính tổng trên trường Fp của hai số nguyên lớn nhập vào từ bàn phím a và b  [0, p -1], yêu cầu hiển thị kết quả dưới mạng mảng và dạng số nguyên.
 from math import log,ceil,floor
 p = 2971215073
 W = 8

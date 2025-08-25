@@ -1,3 +1,4 @@
+#8. Một số gọi là số Т-prime nếu nó có đúng 3 ước nguyên dương. Viết chương trình tìm các số Т-prime nhỏ hơn hoặc bằng N với N cho trước nhập từ bàn phím.
 n=int(input("Nhập n: "))
 def check_divisor(n):
     d=2

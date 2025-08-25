@@ -1,3 +1,4 @@
+#19. Viết chương trình in ra các số nguyên dương x nằm trong khoảng [n,m] sao cho giá trị của biểu thức Ax^2+Bx+C là một số nguyên tố. Với A,B,C, n,m là các số nguyên nhập từ bàn phím (n<m).
 def SoE(m):
     p=2
     prime = {x: 1 for x in range(2, m+ 1)}
